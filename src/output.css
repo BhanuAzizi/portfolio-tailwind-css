@@ -1118,6 +1118,11 @@ body{
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
+.hover\:text-navtext:hover {
+  --tw-text-opacity: 1;
+  color: rgb(158 127 127 / var(--tw-text-opacity, 1));
+}
+
 .hover\:opacity-80:hover {
   opacity: 0.8;
 }
